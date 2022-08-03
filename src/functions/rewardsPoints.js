@@ -4,7 +4,7 @@ import { getSampleData } from '../api/sampleData';
 
 async function simulateAPICall() {
   // todo: simulate api call
-  let data = getSampleData();
+  let data = await getSampleData();
 
   return data;
 }

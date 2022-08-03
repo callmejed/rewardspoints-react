@@ -1,10 +1,9 @@
 ## Rewards Points
-### Test question for interview assessment
 
 
-#### **Save the following assessment in a GitHub account:**
+A simple ReactJS application built to demonstrate a report generator using Create-React-App and MaterialUI.
 
-
+### Instructions
 
 ```
 A retailer offers a rewards program to its customers, awarding points based on each recorded purchase.
@@ -15,12 +14,25 @@ plus 1 point for every dollar spent over $50 in each transaction
 
 Given a record of every transaction during a three month period,
 calculate the reward points earned for each customer per month and total.
-```
-
-
 
 - Use React JS
 - Make up a data set to best demonstrate your solution
 - Check solution into GitHub
+```
 
 
+
+
+### Getting Started
+
+Clone the repository and navigate to the cloned local repository
+
+```
+npm install
+```
+
+then run the app
+
+```
+npm start
+```
